@@ -1,8 +1,16 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Landing
+![1](https://github.com/Sachin-God/Batch-Systems-project/assets/113123578/7026dcda-909f-404f-a196-257b24e049fb)
+![1_dark](https://github.com/Sachin-God/Batch-Systems-project/assets/113123578/67416d9f-04bd-425b-8ff3-b25c71db2b14)
 
-Currently, two official plugins are available:
+# Features
+![2](https://github.com/Sachin-God/Batch-Systems-project/assets/113123578/c9b12c01-7fba-4368-801b-30804432b12d)
+![2_dark](https://github.com/Sachin-God/Batch-Systems-project/assets/113123578/8f650f98-7e7c-4427-a392-f64cc7c31ec6)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Pricing
+![3](https://github.com/Sachin-God/Batch-Systems-project/assets/113123578/8d3c7678-f03b-48d3-accf-7d6087f118c7)
+![3_dark](https://github.com/Sachin-God/Batch-Systems-project/assets/113123578/628759a6-d07a-415e-8dd5-8299ed17e241)
+
+# Footer + Testimonials
+![4](https://github.com/Sachin-God/Batch-Systems-project/assets/113123578/2be1e289-5853-45bd-a716-f75654f79fe0)
+![4_dark](https://github.com/Sachin-God/Batch-Systems-project/assets/113123578/ec55fd7d-aa6b-4948-9199-e82b3a86413d)
